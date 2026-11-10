@@ -3,3 +3,5 @@
 #this is my first shell script file
 
 echo "hello world!"
+echo "hello"
+echo "hii"
