@@ -7,8 +7,9 @@ echo "$time"
 
 # time in seconds -date +%s
 st_time=$(date +%s)
+sleep 10
 ed_time=$(date +%s)
 
-sleep 10
+
 t=$((st_time-ed_time))
 echo "time taken for execution is $t"
