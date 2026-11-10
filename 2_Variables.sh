@@ -2,8 +2,8 @@
 
 #variables
 #no space bw = variable name and value
-company1="maggie"
-company2="yippie"
+company1=maggie
+company2=yippie
 
 echo "$company1 : hi $company2 How many peaople like you"
 echo "$company2 : Hii $company1  more than yours count"
